@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chisom-Collins
 - 🌱 I’m currently learning Python and Dart
-- 💞️ I’m looking to collaborate on Python related projects and Dart
+- 💞️ I’m looking to collaborate on C++, Python related projects and Dart
 - 📫 How to reach me email: chizzymomo123@gmail.com
 
 <!---
